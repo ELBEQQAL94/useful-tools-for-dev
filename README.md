@@ -4,3 +4,6 @@
 - [Genrate fiveicon](https://favicon.io/)
 - [Genrate meta tag](https://www.heymeta.com/)
 - [Build resume](https://mjml.io/)
+- [Mail trap](https://mailtrap.io/)
+- [Temp emails](https://temp-mail.org/)
+- [Plausible](https://plausible.io/)
