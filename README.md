@@ -17,3 +17,4 @@
 - [Metatags](https://metatags.io/)
 - [Storytale](https://storytale.io/)
 - [Profile Pic Maker](https://pfpmaker.com/)
+- [Generate app icon for IOS and Android](https://appicon.co/)
