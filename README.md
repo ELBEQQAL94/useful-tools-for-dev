@@ -20,3 +20,4 @@
 - [Generate app icon for IOS and Android](https://appicon.co/)
 - [PNG icons](https://www.pngwing.com/)
 - [SMart Mockups](https://smartmockups.com/)
+- [SVG Icons](https://www.svgrepo.com/)
