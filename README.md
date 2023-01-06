@@ -21,3 +21,4 @@
 - [PNG icons](https://www.pngwing.com/)
 - [SMart Mockups](https://smartmockups.com/)
 - [SVG Icons](https://www.svgrepo.com/)
+- [HTML Icons](https://www.toptal.com/designers/htmlarrows/symbols/)
