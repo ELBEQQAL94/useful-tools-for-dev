@@ -23,5 +23,5 @@
 - [SVG Icons](https://www.svgrepo.com/)
 - [HTML Icons](https://www.toptal.com/designers/htmlarrows/symbols/)
 - [Convert PNG to Webp](https://convertio.co/)
-- [Validate YML file] (https://onlineyamltools.com/validate-yaml)
-- [Color pallete] (https://color.adobe.com/fr/create/image)
+- [Validate YML file](https://onlineyamltools.com/validate-yaml)
+- [Color pallete](https://color.adobe.com/fr/create/image)
