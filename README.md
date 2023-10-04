@@ -25,3 +25,4 @@
 - [Convert PNG to Webp](https://convertio.co/)
 - [Validate YML file](https://onlineyamltools.com/validate-yaml)
 - [Color pallete](https://color.adobe.com/fr/create/image)
+- - [generate images by IA](https://gencraft.com/?olm=true)
