@@ -1,5 +1,6 @@
 # usefull-tools-for-dev
 
+- [Multi Model AI](https://www.notdiamond.ai/)
 - [Generate random string](https://onlinestringtools.com/generate-random-string)
 - [Nx is a build system with built-in tooling and advanced CI capabilities . It helps you maintain and scale monorepos, both locally and on CI.](https://nx.dev/)
 - [Convert image to base64](https://onlineimagetools.com/convert-image-to-base64)
