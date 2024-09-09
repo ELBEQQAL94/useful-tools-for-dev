@@ -1,5 +1,6 @@
 # usefull-tools-for-dev
 
+- [Text-To-Speech](https://elevenlabs.io/)
 - [Multi Model AI](https://www.notdiamond.ai/)
 - [Generate random string](https://onlinestringtools.com/generate-random-string)
 - [Nx is a build system with built-in tooling and advanced CI capabilities . It helps you maintain and scale monorepos, both locally and on CI.](https://nx.dev/)
