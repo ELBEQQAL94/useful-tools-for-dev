@@ -1,5 +1,6 @@
 # usefull-tools-for-dev
 
+- [brime -resize images](https://www.birme.net/)
 - [Text-To-Speech](https://elevenlabs.io/)
 - [Multi Model AI](https://www.notdiamond.ai/)
 - [Generate random string](https://onlinestringtools.com/generate-random-string)
